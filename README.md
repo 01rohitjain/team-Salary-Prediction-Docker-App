@@ -1,10 +1,13 @@
-# team Project
-team Project built using Technology
+# Salary Prediction Docker App
+Salary Prediction using ML on Docker Container
 
 ## Description
 
 ## Technology Used
+- Machine Learning / Linear Regression
+- Docker
+- Python
 
 ## Contributor(s)
-- [@webdevprashant](https://github.com/webdevprashant)
-- [@ScriptKKiddie](https://github.com/ScriptKKiddie)
+- [@01rohitjain](https://github.com/01rohitjain)
+- [Tinkal Shakya](https://github.com/tinkalshakya09)
